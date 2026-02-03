@@ -11,3 +11,10 @@
   <img src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe CC" />
 </p>
 Product Designer & Experience Strategist specialising in designing highly loaded digital ecosystems where complex business tasks are transformed into elegant and intuitive solutions. My expertise is based on the intersection of deep analytics, system design, and understanding of front-end architecture. In the age of AI, I focus on creating products that are meaningful, ethical, and resonate with the human experience
+
+<br/>
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1avytuch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1avytuch&layout=compact&theme=dark&hide_border=true" />
+</p>
