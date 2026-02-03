@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Adobe%20CC-%23DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe CC" />
 </p>
-hello
+Product Designer & Experience Strategist specialising in designing highly loaded digital ecosystems where complex business tasks are transformed into elegant and intuitive solutions. My expertise is based on the intersection of deep analytics, system design, and understanding of front-end architecture. In the age of AI, I focus on creating products that are meaningful, ethical, and resonate with the human experience
