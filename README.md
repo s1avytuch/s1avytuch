@@ -26,6 +26,6 @@ Product Designer & Experience Strategist specialising in designing highly loaded
 ### 🧪 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/slavik-prykhodko" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/slavik-prykhodko" target="blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/viacheslav-prykhodko-515a003a8/)" /></a>
 <a href="mailto:slavikprykhodko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
