@@ -14,7 +14,3 @@ Product Designer & Experience Strategist specialising in designing highly loaded
 
 <br/>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1avytuch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1avytuch&layout=compact&theme=dark&hide_border=true" />
-</p>
