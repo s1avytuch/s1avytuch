@@ -12,5 +12,4 @@
 </p>
 Product Designer & Experience Strategist specialising in designing highly loaded digital ecosystems where complex business tasks are transformed into elegant and intuitive solutions. My expertise is based on the intersection of deep analytics, system design, and understanding of front-end architecture. In the age of AI, I focus on creating products that are meaningful, ethical, and resonate with the human experience
 
-<br/>
 
